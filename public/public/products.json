@@ -1,0 +1,26 @@
+[
+    {
+        "img":"https://cekdev.com/wp-content/uploads/2021/04/ICT-Tools.jpg",
+    "id":1,
+    "name":"ICT Short Course",
+    "duration":"45 Days",
+    "fee": 4500 ,
+    "discription":"I will Provide all Chapters short notes and gives time to time update to the guardian's.I covered all the chapters and and every week students should take parts in the Objective Exam.Although I take three model test in this time period.   "
+},
+    {
+        "img":"https://images.theconversation.com/files/191827/original/file-20171025-25516-g7rtyl.jpg?ixlib=rb-1.1.0&rect=0%2C70%2C7875%2C5667&q=45&auto=format&w=926&fit=clip",
+    "id":1,
+    "name":"Physics Short Course",
+    "duration":"45 Days",
+    "fee": 4500 ,
+    "discription":"I will Provide all Chapters short notes and gives time to time update to the guardian's.I covered all the chapters and and every week students should take parts in the Objective Exam.Although I take three model test in this time period.   "
+},
+    {
+        "img":"https://ugc.futurelearn.com/uploads/images/19/16/header_1916d738-6925-4ec8-a6d9-0486e2200414.jpg",
+    "id":1,
+    "name":"ICT & Physics Short Course",
+    "duration":"45 Days",
+    "fee": 5500 ,
+    "discription":"I will Provide all Chapters short notes and gives time to time update to the guardian's.I covered all the chapters and and every week students should take parts in the Objective Exam.Although I take three model test in this time period.   "
+}
+]
