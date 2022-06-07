@@ -1,7 +1,7 @@
 
 
 #Private Ripo Link:https://github.com/programming-hero-web-course-4/independent-service-provider-saad-raffi
-##Live Site: https://capable-stroopwafel-4524ce.netlify.app/home
+##Live Site: https://tutor-app-saad.web.app/home
 
 ## About My websites
 1. Its a tutor website
